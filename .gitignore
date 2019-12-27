@@ -1,0 +1,9 @@
+*.class
+windowTest/target/
+sinkTest/target/
+.idea/
+*.iml
+sourceTest/target/
+*.jar
+stateTest/target/
+common/target/
